@@ -1,4 +1,5 @@
 #Este modelo fue hecho por Majo
+#Este modelo fue modificado por Belén
 from django.db import models
 from django.utils import timezone
 class Post(models.Model):
